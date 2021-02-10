@@ -60,3 +60,22 @@ fun()
 
 ## add gmail link 
 [gmail](https://www.google.com)
+## got commands
+- git init 
+- git status
+- git bramch 
+- git add filename 
+- git remote 
+- git remote -v 
+- git clone "ur1"
+- git remote add remotenme "repolink"
+- git log 
+- git log online
+- git revert filename 
+- git reset filename 
+- git rm filename 
+- git comfig user.name"username"
+- git config user.email"user email"
+- git commit -m"message"
+- git push remotenme branchname 
+- git pull remotenme branchname
