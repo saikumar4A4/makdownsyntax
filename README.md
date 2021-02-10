@@ -38,10 +38,10 @@ _ ece
 _ cse 
     + cseA
 ## code of function definition
-`
+```
 def fun()
     print("welcome to my heart")
-`
+```
 ## function calling 
 `
 fun()
