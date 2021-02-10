@@ -46,3 +46,12 @@ def fun()
 `
 fun()
 `
+## task 
+```
+def fun()
+    print("welcome")
+```
+## function calling 
+`
+fun()
+`
