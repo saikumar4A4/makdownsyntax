@@ -32,10 +32,10 @@ __*sample text*__
 4. civil 
 5. mech
 ## unorded list 
-_ ece 
+- ece 
     * eceA 
     * eceB
-_ cse 
+- cse 
     + cseA
 ## code of function definition
 ```
