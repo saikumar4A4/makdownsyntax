@@ -1,2 +1,20 @@
-# makdownsyntax
-Day 2 kits ECE about markdown syntax
+# home automation using by alexa 
+## components
+### circuit diagram
+#### analysis
+##### observation output
+###### conclusion
+###### normal text(not a heading)
+## bold test 
+**sample text**
+
+__sample text__
+## italic text 
+*sample text*
+
+_sample text_
+## bold and italic 
+**_sample text_**
+
+__*sample text*__
+
